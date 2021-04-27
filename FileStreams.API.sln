@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStreams.API", "FileStreams.API\FileStreams.API.csproj", "{78158546-BB11-49CC-8149-2AD52C70BFC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStreams.Client", "FileStreams.Client\FileStreams.Client.csproj", "{1E902269-746F-43BF-A463-A1FBBFB172D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78158546-BB11-49CC-8149-2AD52C70BFC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78158546-BB11-49CC-8149-2AD52C70BFC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78158546-BB11-49CC-8149-2AD52C70BFC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78158546-BB11-49CC-8149-2AD52C70BFC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E902269-746F-43BF-A463-A1FBBFB172D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E902269-746F-43BF-A463-A1FBBFB172D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E902269-746F-43BF-A463-A1FBBFB172D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E902269-746F-43BF-A463-A1FBBFB172D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB62BD9B-CB1C-4BE3-A0EC-667BF9452651}
+	EndGlobalSection
+EndGlobal
